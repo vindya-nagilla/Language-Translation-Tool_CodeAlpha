@@ -14,8 +14,8 @@ Text-to-Speech functionality for translated text.
 Supports popular languages such as English, Hindi, Telugu, Tamil, French, German, Spanish, Chinese, Japanese, and Korean.
 
 # Technologies Used
-Python
-Gradio
+. Python
+. Gradio
 Deep Translator
 Google Translate API
 gTTS (Google Text-to-Speech).
